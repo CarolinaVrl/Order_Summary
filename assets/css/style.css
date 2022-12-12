@@ -21,7 +21,7 @@
 body{
     height: 100vh;
     width: 100%;
-    background-image: url(/Order_Summary_Solution/assets/Images/pattern-background-mobile.svg);
+    background-image: url(/assets/Images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
     background-position: top;
     background-color: var(--Paleblue);
@@ -147,7 +147,7 @@ body{
 
 @media screen and (min-width:992px ) {
     body{
-        background: url(/Order_Summary_Solution/assets/Images/pattern-background-desktop.svg) no-repeat ;
+        background: url(/assets/Images/pattern-background-desktop.svg) no-repeat ;
         background-size: contain;
         background-position:top;
         background-color:var(--Paleblue);
